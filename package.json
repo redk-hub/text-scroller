@@ -1,6 +1,6 @@
 {
   "name": "text-scroller",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A React component for scrolling text horizontally or vertically.",
   "main": "dist/index.js",
   "scripts": {
